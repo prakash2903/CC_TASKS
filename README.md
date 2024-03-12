@@ -1,2 +1,2 @@
-# CodeClause_Internship
-AI Internship@CodeClause Tasks
+# HousePrice Predictor
+# GoldPrice Predictor
